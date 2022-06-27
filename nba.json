@@ -1,0 +1,51 @@
+[
+    {
+        "teamName": "Golden State Warriors",
+        "state": "California",
+        "conferenceFinalsCount": 18,
+        "players": [
+            {
+                "name": "Stephen Curry",
+                "startYear": 2009 
+            },
+            {
+                "name": "Klay Thompson",
+                "startYear": 2011 
+            },
+            {
+                "name": "Jordan Poole",
+                "startYear": 2019 
+            }
+        ] 
+    },
+    {
+        "teamName": "Chicago Bulls",
+        "state": "Illinois",
+        "conferenceFinalsCount": 11,
+        "players": [
+            {
+                "name": "Zach LaVine",
+                "startYear": 2014
+            },
+            {
+                "name": "DeMar DeRozan",
+                "startYear": 2009
+            }
+        ] 
+    },
+    {
+        "teamName": "Dallas Mavericks",
+        "state": "Texas",
+        "conferenceFinalsCount": 5,
+        "players": [
+            {
+                "name": "Luka Doncic",
+                "startYear": 2018
+            },
+            {
+                "name": "Jalen Brunson",
+                "startYear": 2018
+            }
+        ] 
+    }
+]
